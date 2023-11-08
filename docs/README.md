@@ -42,3 +42,8 @@
    - Website
    - Social Media Links (Twitter, Instagram)
    - Contact Information (Email)
+   
+8. Accomplishments
+
+9. Screenshots of TradeCoin
+
