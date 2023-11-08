@@ -43,7 +43,6 @@
    - Social Media Links (Twitter, Instagram)
    - Contact Information (Email)
    
-8. Accomplishments
+8. Application instruction
 
-9. Screenshots of TradeCoin
 

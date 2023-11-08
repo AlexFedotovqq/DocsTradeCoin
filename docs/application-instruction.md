@@ -1,4 +1,4 @@
-## Accomplishments
+## Application instruction
 
 Faced with the fact that you do not know how to use the application?
 
