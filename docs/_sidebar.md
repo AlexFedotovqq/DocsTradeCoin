@@ -1,6 +1,6 @@
-* [Home](./README.md)
+* [Home](/)
 
-* [Introduction](./introduction.md)
+    * [Introduction](./introduction.md)
     * [Architecture](./architecture.md)
     * [Functionality](./functionality.md)
     * [Development Challenges](./development-challenges.md)
