@@ -44,5 +44,3 @@
    - Contact Information (Email)
    
 8. Application instruction
-
-
