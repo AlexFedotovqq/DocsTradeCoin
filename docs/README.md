@@ -4,8 +4,9 @@
 
 1. Introduction
 
-   - Overview of TradeCoin
+   - Project description
    - Purpose and Goals
+   - Project Architecture
 
 2. Architecture
 
@@ -39,8 +40,11 @@
    - Mina
 
 7. Important Links
+
    - Website
    - Social Media Links (Twitter, Instagram)
    - Contact Information (Email)
-   
+
 8. Application instruction
+
+9. Milestones
