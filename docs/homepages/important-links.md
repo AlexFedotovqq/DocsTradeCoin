@@ -1,6 +1,6 @@
 ## Important Links
 
-- [TradeCoin Website](https://trade-coin-xi.vercel.app/)
+- [TradeCoin Website](https://tradecoin.dev/)
 - [Twitter](https://twitter.com/_TradeCoin_)
 - [Instagram](https://www.instagram.com/_tradecoin_/)
 - [GitHub Repo](https://github.com/AlexFedotovqq/TradeCoin)
