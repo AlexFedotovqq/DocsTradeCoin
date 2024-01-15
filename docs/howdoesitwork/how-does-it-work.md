@@ -4,9 +4,9 @@
 
 1. The "Home" page
 
-   - Project description
-   - Purpose and Goals
-   - Project Architecture
+   - Soon
+   - Soon
+   - Soon
 
 2. The "[Exchange](./howdoesitwork/exchange-page.md)" page
 
@@ -19,12 +19,15 @@
 
 3. The "[Pool](./howdoesitwork/pool-page.md)" page
 
-   - Token Exchange
-   - Security Measures
-   - Liquidity Provision
+   - Overview
+   - Adding a New Pair
+   - Exploring Pools
+   - Liquidity Operations
+   - Remove Liquidity
+   - Conclusion
 
 4. The "Contact Us" page
 
-   - Ensuring Security and Reliability
-   - Smart Contract Development
-   - User Interface Design
+   - Soon
+   - Soon
+   - Soon
