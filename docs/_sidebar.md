@@ -1,4 +1,4 @@
-- [Home](./homepages/home.md)
+- [General information about the project](./homepages/home.md)
 
   - [Introduction](./homepages/introduction.md)
   - [Architecture](./homepages/architecture.md)

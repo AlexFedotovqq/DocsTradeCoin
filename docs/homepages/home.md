@@ -1,4 +1,4 @@
-# TradeCoin Project Documentation
+# General information about the project
 
 ## Table of Contents
 
