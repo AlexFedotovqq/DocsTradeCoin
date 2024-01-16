@@ -46,4 +46,4 @@ Click the "Exchange" button to initiate the swap. A loading spinner will appear 
 
 # Conclusion
 
-That's it! You've successfully completed a cryptocurrency swap on TradeCoin. If you encounter any issues or have questions, feel free to reach out to us through the "Contact Us" page. Happy trading!
+That's it! You've successfully completed a cryptocurrency swap on TradeCoin. If you encounter any issues or have questions, feel free to reach out to us through the "[Contact Us](./howdoesitwork/contact-us-page.md)" page. Happy trading!

@@ -2,13 +2,7 @@
 
 ## Table of Contents
 
-1. The "Home" page
-
-   - Soon
-   - Soon
-   - Soon
-
-2. The "[Exchange](./howdoesitwork/exchange-page.md)" page
+1. The "[Exchange](./howdoesitwork/exchange-page.md)" page
 
    - Overview
    - Selecting Cryptocurrencies
@@ -17,7 +11,7 @@
    - Execute the Swap
    - Conclusion
 
-3. The "[Pool](./howdoesitwork/pool-page.md)" page
+2. The "[Pool](./howdoesitwork/pool-page.md)" page
 
    - Overview
    - Adding a New Pair
@@ -26,8 +20,10 @@
    - Remove Liquidity
    - Conclusion
 
-4. The "Contact Us" page
+3. The "[Contact Us](./howdoesitwork/contact-us-page.md)" page
 
-   - Soon
-   - Soon
-   - Soon
+   - Overview
+   - Fill Out the Form
+   - Submitting Your Message
+   - Confirmation Page
+   - Conclusion

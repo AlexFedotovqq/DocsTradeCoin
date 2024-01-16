@@ -1,4 +1,4 @@
-- [Home](/)
+- [Home](./homepages/home.md)
 
   - [Introduction](./homepages/introduction.md)
   - [Architecture](./homepages/architecture.md)
@@ -14,3 +14,4 @@
 
   - [Exchange](./howdoesitwork/exchange-page.md)
   - [Pool](./howdoesitwork/pool-page.md)
+  - [Contact Us](./howdoesitwork/contact-us-page.md)

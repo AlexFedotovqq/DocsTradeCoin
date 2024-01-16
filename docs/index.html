@@ -9,6 +9,7 @@
       name="viewport"
       content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
     />
+
     <link
       rel="stylesheet"
       href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/buble.css"
@@ -27,10 +28,13 @@
         maxLevel: 2,
         themeColor: "#3F51B5",
         loadSidebar: true,
-        homepage: "README.md",
+        homepage: "./homepages/home.md",
+        coverpage: true,
+        executeScript: true, // Add this line to enable execution of script in Markdown files
+        auto2top: true, // Add this line to scroll to the top when navigating between pages
       };
     </script>
-
+    <link rel="stylesheet" href="//unpkg.com/docsify/themes/vue.css" />
     <!-- Docsify v4 -->
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/front-matter.min.js"></script>

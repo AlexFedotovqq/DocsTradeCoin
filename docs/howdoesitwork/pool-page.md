@@ -69,4 +69,4 @@ Perform liquidity operations with ease.
 
 # Conclusion
 
-Feel free to explore the TradeCoin Pools page, and if you have any questions or encounter issues, don't hesitate to reach out through the "Contact Us" page. Happy trading!
+Feel free to explore the TradeCoin Pools page, and if you have any questions or encounter issues, don't hesitate to reach out through the "[Contact Us](./howdoesitwork/contact-us-page.md)" page. Happy trading!
