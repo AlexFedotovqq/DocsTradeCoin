@@ -27,3 +27,10 @@
    - Submitting Your Message
    - Confirmation Page
    - Conclusion
+
+4. The "[Connect Wallet](./howdoesitwork/connect-wallet-page.md)" page
+
+   - Connect Wallet
+   - Checking the profile
+   - Done
+   - Conclusion

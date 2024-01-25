@@ -15,3 +15,4 @@
   - [Exchange](./howdoesitwork/exchange-page.md)
   - [Pool](./howdoesitwork/pool-page.md)
   - [Contact Us](./howdoesitwork/contact-us-page.md)
+  - [Connect Wallet](./howdoesitwork/connect-wallet-page.md)
