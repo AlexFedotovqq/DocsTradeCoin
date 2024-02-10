@@ -33,4 +33,8 @@
    - Connect Wallet
    - Checking the profile
    - Done
+   - Wallet Settings
+   - Copy Address
+   - Toggle Address Visibility
+   - Disconnect Wallet
    - Conclusion

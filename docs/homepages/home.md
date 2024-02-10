@@ -48,3 +48,5 @@
 8. [Application instruction](./homepages/application-instruction.md)
 
 9. [Milestones](./homepages/milestones.md)
+
+10. [Video review of the TradeCoin project](./homepages/videoreview.md)

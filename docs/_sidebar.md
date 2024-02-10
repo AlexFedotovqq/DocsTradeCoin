@@ -9,6 +9,7 @@
   - [Important Links](./homepages/important-links.md)
   - [Application instruction](./homepages/application-instruction.md)
   - [Milestones](./homepages/milestones.md)
+  - [Video review of the TradeCoin project](./homepages/videoreview.md)
 
 - [How does it work?](./howdoesitwork/how-does-it-work.md)
 

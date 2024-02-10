@@ -2,8 +2,6 @@
 
 Welcome to the wallet connection page! Follow these simple steps to successfully connect your wallet
 
-## Connect Wallet
-
 ## 1. Connect Wallet
 
 Click on the wallet connection button
