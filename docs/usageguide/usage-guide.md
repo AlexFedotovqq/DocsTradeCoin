@@ -1,4 +1,4 @@
-# How does it work?
+# Usage Guide
 
 ## Table of Contents
 

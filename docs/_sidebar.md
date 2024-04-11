@@ -1,3 +1,4 @@
+- [How it works?](./howitworks/how-it-works.md)
 - [General information about the project](./homepages/home.md)
 
   - [Introduction](./homepages/introduction.md)
@@ -11,9 +12,9 @@
   - [Milestones](./homepages/milestones.md)
   - [Video review of the TradeCoin project](./homepages/videoreview.md)
 
-- [How does it work?](./howdoesitwork/how-does-it-work.md)
+- [Usage Guide](./usageguide/usage-guide.md)
 
-  - [Exchange](./howdoesitwork/exchange-page.md)
-  - [Pool](./howdoesitwork/pool-page.md)
-  - [Contact Us](./howdoesitwork/contact-us-page.md)
-  - [Connect Wallet](./howdoesitwork/connect-wallet-page.md)
+  - [Exchange](./usageguide/exchange-page.md)
+  - [Pool](./usageguide/pool-page.md)
+  - [Contact Us](./usageguide/contact-us-page.md)
+  - [Connect Wallet](./usageguide/connect-wallet-page.md)
