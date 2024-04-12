@@ -2,7 +2,7 @@
 
 ### Smart Contracts
 
-TradeCoin utilizes Solidity smart contracts for the exchange of tokens. These contracts play a vital role in facilitating secure and automated token swaps.
+TradeCoin utilizes Mina smart contracts for the exchange of tokens. These contracts play a vital role in facilitating secure and automated token swaps.
 
 ### User Interface (Nextjs)
 
